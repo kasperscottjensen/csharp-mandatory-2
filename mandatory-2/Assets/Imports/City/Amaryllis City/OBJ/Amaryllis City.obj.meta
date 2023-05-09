@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 46e0c918e609c97ddbf4481a25b82aff
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh10_City_Center_Two1_ModelMat
+    second: {fileID: 2100000, guid: 81a1f15ea2cc5cafda0d82e350e19ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh11_City_Center_One1_ModelMat
+    second: {fileID: 2100000, guid: 17b8e62b75d0731aca0890696f3857dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh12_Amaryllis_City_Pok_mon_Center1_ModelMat
+    second: {fileID: 2100000, guid: 02a2a374f4ca521438e82245fe40ae53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh13_East_Central_Oranova1_ModelMat
+    second: {fileID: 2100000, guid: 1474aedf21a46cc0e894245e9661d82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh14_Courtyard_by_Marriott_Amaryllis_City1_ModelMat
+    second: {fileID: 2100000, guid: 22a4e74040047dc78a79c9fce8b7ccca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh15_Amaryllis_City_Municipal_Center1_ModelMat
+    second: {fileID: 2100000, guid: 38228605f9daa6ab1bcee2e62544c944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh16_Amaryllis_City_Visitors__Center1_ModelMat
+    second: {fileID: 2100000, guid: f9f290e9e252262ad8b27332c9934e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh17_Sapphire_Plaza1_ModelMat
+    second: {fileID: 2100000, guid: 1fc9fd7fb7483ccf7858276757cbe3b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh1_Amaryllis_City_Music_Center1_ModelMat
+    second: {fileID: 2100000, guid: c58bcf9aa25af7c8fbcd4bd47cdf6743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh2_One_Amaryllis_Place1_ModelMat
+    second: {fileID: 2100000, guid: 647497f79df2b6de4bedf4481d40ddae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh3_Lycoris_Springs_Luxury_Apartments1_ModelMat
+    second: {fileID: 2100000, guid: 6b3ad6a6ea68c6d498b77d27f4493169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh4_JW_Marriott_Amaryllis_City1_ModelMat
+    second: {fileID: 2100000, guid: 8bcdf0eb40ce5ff1ca2e29fe31e20af0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh5_Clock_Hands1_Amaryllis_Carillon_Tower1_ModelMat
+    second: {fileID: 2100000, guid: c53da8fec71047f0b8dc23ca9a1abead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh6_Clock_Hands2_Amaryllis_Carillon_Tower1_ModelMat
+    second: {fileID: 2100000, guid: 7e9521546f81ffc3e9ebd09b02a23072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh7_Clock_Hands3_Amaryllis_Carillon_Tower1_ModelMat
+    second: {fileID: 2100000, guid: 3708d09a6911ff7ff8b035ad1491b2f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh8_Clock_Hands4_Amaryllis_Carillon_Tower1_ModelMat
+    second: {fileID: 2100000, guid: 016f525cc75d9f5578dd7ff3edb3af22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh9_Amaryllis_Carillon_Tower1_ModelMat
+    second: {fileID: 2100000, guid: 735fe277b22876a349384a3b47136579, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
